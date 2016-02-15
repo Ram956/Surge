@@ -2,8 +2,9 @@
 
 An HTML5 based F2P MMO game featuring fierce war on the ocean with RPG elements.
 
-The networking mode: http://murplyx.net/
-The actual game: http://murplyx.net/9/
+Demo: http://murplyx.net/surge/
+
 
 Game Designer & Creative Director: Ramiel
+
 Lead Programmer: Murplyx
