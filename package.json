@@ -1,5 +1,0 @@
-{
-	"name" : "Surge",
-	"dependencies" : { "socket.io" : "1.4.5" },
-	"scripts": { "start" : "node server.js" }
-}
